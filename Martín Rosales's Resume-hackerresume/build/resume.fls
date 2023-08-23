@@ -1,0 +1,4 @@
+PWD /home/ml/Documents/CV/Martín Rosales's Resume-hackerresume
+INPUT /home/ml/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT /home/ml/Documents/CV/Martín Rosales's Resume-hackerresume/resume.tex
+OUTPUT /home/ml/Documents/CV/Martín Rosales's Resume-hackerresume/build/resume.log

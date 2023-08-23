@@ -1,0 +1,13 @@
+# Fdb version 4
+["pdflatex"] 1692718077 "/home/ml/Documents/GitHub/CV/Resume 2/resume_hackerrank.tex" "build/resume_hackerrank.pdf" "resume_hackerrank" 1692718077 2
+  "/home/ml/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1692485492 20939750 0daa410c400097099968186f674455da ""
+  "/home/ml/Documents/GitHub/CV/Resume 2/resume_hackerrank.tex" 1692718076 5353 c95da9c8d3a6b907a95744a505a99ecb ""
+  "build/resume.cls.cls" 0 -1 0 ""
+  "build/resume_hackerrank.aux" 1692718055 1271 363af68fc63b60a47c4d44cb07a73116 "pdflatex"
+  "resume.cls.cls" 0 -1 0 ""
+  "resume_hackerrank.tex" 1692718076 5353 c95da9c8d3a6b907a95744a505a99ecb ""
+  (generated)
+  "build/resume_hackerrank.aux"
+  "build/resume_hackerrank.log"
+  "build/resume_hackerrank.pdf"
+  (rewritten before read)

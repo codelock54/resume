@@ -1,0 +1,4 @@
+PWD /home/ml/Documents/GitHub/CV/Resume 2
+INPUT /home/ml/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT /home/ml/Documents/GitHub/CV/Resume 2/resume_hackerrank.tex
+OUTPUT /home/ml/Documents/GitHub/CV/Resume 2/build/resume_hackerrank.log

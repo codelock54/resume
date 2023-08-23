@@ -1,0 +1,13 @@
+# Fdb version 4
+["pdflatex"] 1692717954 "/home/ml/Documents/CV/Martín Rosales's Resume-hackerresume/resume.tex" "build/resume.pdf" "resume" 1692717954 2
+  ".cls" 0 -1 0 ""
+  "/home/ml/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1692485492 20939750 0daa410c400097099968186f674455da ""
+  "/home/ml/Documents/CV/Martín Rosales's Resume-hackerresume/resume.tex" 1692717953 5623 58086da616904732054d4be10bb20bae ""
+  "build/.cls" 0 -1 0 ""
+  "build/resume.aux" 1692717837 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "resume.tex" 1692717953 5623 58086da616904732054d4be10bb20bae ""
+  (generated)
+  "build/resume.aux"
+  "build/resume.log"
+  "build/resume.pdf"
+  (rewritten before read)
